@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/yefenghu/nav',
 
   // 部署分支
   branch: 'main',
@@ -50,7 +50,7 @@ const c: IConfig = {
   simThemeConfig: {
     // 海报图
     posterImageUrls: [
-      'https://raw.sevencdn.com/xjh22222228/nav/image/sim-wallpaper.jpg'
+      'https://raw.sevencdn.com/yefenghu/nav/image/sim-wallpaper.jpg'
     ],
     description: '这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活'
   }
