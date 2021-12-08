@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://dh.yefenghu.cyou',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
